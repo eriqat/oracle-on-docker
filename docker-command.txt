@@ -1,0 +1,2 @@
+sqlplus "sys/oracle@bf538da9c5a9:1521/EE.oracle.docker as sysdba"
+
